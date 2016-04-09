@@ -61,7 +61,7 @@ pgh postgres://andre@localhost/test index_sizes
 | blocking | display queries holding locks other queries are waiting to be released |
 | cache\_hit | calculates your cache hit rate (effective databases are at 99% and up) |
 | calls | show 10 most frequently called queries |
-| index\_size | show the size of indexes, descending by size |
+| index\_sizes | show the size of indexes, descending by size |
 | index\_usage | calculates your index hit rate (effective databases are at 99% and up) |
 | locks | display queries with active locks |
 | long\_running\_queries | show all queries longer than five minutes by descending duration |
